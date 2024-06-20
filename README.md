@@ -10,9 +10,6 @@ In local usage, it is used MySQL for the Database.
 2. In-app lock registration
 3. Data collection of access attempts
 
-## Screenshots
-
-![App Screenshot](https://github.com/felixgespinosa/ioCasas/assets/115037849/8d4eb75c-1bad-4408-9a97-81803a2e7166)
 
 
 ## Data Models
@@ -36,4 +33,9 @@ In local usage, it is used MySQL for the Database.
 
  
 
- 
+
+
+## Screenshot
+
+![App Screenshot](https://github.com/felixgespinosa/ioCasas/assets/115037849/8d4eb75c-1bad-4408-9a97-81803a2e7166)
+
